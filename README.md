@@ -23,3 +23,5 @@ spec:
       - "sg-12345678"
     vpcID: "crossplane.io/name-of-your-vpc-resource"
 ```
+
+Reference: https://medium.com/nerd-for-tech/introduction-to-crossplane-2f873ae0f9f3
